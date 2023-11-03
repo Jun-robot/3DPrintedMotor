@@ -3,7 +3,6 @@
 ![img](https://github.com/Jun-robot/3DPrintedMotor/blob/main/readme.jpg)
 
 ## Overview
-
 3Dプリンタで作る自作モーターのリポジトリです。
 
 ### 開発コンセプト
@@ -11,6 +10,11 @@
   - あとは、ネジやコイルの規格品のみで作成可能！
 - 開発物に適した形状、性能に。
   - アイデアの妥協をなくし、作りたいモノに最適化
+
+## How to make
+- STLをダウンロード
+- 印刷！！
+- コイル巻き巻き
 
 ## Achievement
 - サイエンスキャッスル2022関東大会 口頭発表
