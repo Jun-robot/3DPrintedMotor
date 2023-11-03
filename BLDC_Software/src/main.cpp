@@ -15,21 +15,13 @@ void setup() {
 	digitalWrite(PA4, HIGH);
 
 	digitalWrite(PC12, HIGH);
-	// put your setup code here, to run once:
-	Serial.begin(115200);
-	Serial.println("Hello World!");
+	//Serial.begin(115200);
+	//Serial.println("Hello World!");
 	analogWriteFrequency(20000);
 	}
 
 float i = 0;
 void loop() {
-	// for(int i = 0; i < 255; i++) {
-	// 	analogWrite(PA10, i);
-	// 	delay(30);
-	// }
-	// analogWrite(PA9, 228);
-	// analogWrite(PA8, 3);
-
 	int U, V, W = 0;
 	U = (sin(i)+1 )* 127;
 	V = (sin(i+ 2*PI/3)+1 )* 127;
@@ -42,10 +34,4 @@ void loop() {
 	analogWrite(PA10, U);
 	analogWrite(PA9, V);
 	analogWrite(PA8, W);
-	// Serial.print(U);
-	// Serial.print(" ");
-	// Serial.print(V);
-	// Serial.print(" ");
-	// Serial.println(W);
-
 }
