@@ -4,8 +4,7 @@
 3Dプリンタで作る自作モーターのリポジトリです。
 
 アイデアがより的確に実現できるようになるといいなと思って開発中です。
-
-![img](https://github.com/Jun-robot/3DPrintedMotor/blob/main/readme.jpg)
+<img src="https://github.com/Jun-robot/3DPrintedMotor/blob/main/readme.jpg" width="50%">
 
 ## How to make
 1. "3Dmodels"の中にある5つのSTLファイルをダウンロード！！
