@@ -1,24 +1,33 @@
 # 3DPrintedMotor
 
-![img](https://github.com/Jun-robot/3DPrintedMotor/blob/main/readme.jpg)
-
 ## Overview
 3Dプリンタで作る自作モーターのリポジトリです。
 
-**開発コンセプト**
-- 3Dプリンタさえあれば手に入る。
+アイデアがより的確に実現できるようになるといいなと思って開発中です。
+
+![img](https://github.com/Jun-robot/3DPrintedMotor/blob/main/readme.jpg)
+
+## How to make
+1. "3Dmodels"の中にある5つのSTLファイルをダウンロード！！
+1. 3Dプリンタで印刷！！
+1. コイル巻いたり、組み立てたり
+   - 必要な部品の型番は今後、追記していきます。
+
+## 開発コンセプト
+- 3Dプリンタさえあれば手に入る
   - あとは、ネジやコイルの規格品のみで作成可能！
 - 開発物に適した形状、性能に。
   - アイデアの妥協をなくし、作りたいモノに最適化
 
-**3Dデータ**
+## 3Dデータ
 Fusion360で作成
+
 https://a360.co/3StNydJ
 
-## How to make
-- STLをダウンロード
-- 印刷！！
-- コイル巻き巻き
+## 制御システム
+DRV8332を使用した自作基板
+
+現在は、強制転流だが、今後フィードバック制御をかけていく予定
 
 ## Achievement
 - サイエンスキャッスル2022関東大会 口頭発表
