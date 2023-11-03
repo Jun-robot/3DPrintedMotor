@@ -8,6 +8,11 @@
 <img src="https://github.com/Jun-robot/3DPrintedMotor/blob/main/readme.jpg" width="50%">
 
 ## How to make
+#### 必要なもの
+- 3Dプリンタ
+- ネジとかコイルとかベアリングとか
+
+#### 作り方
 1. "3Dmodels"の中にある5つのSTLファイルをダウンロード！！
 1. 3Dプリンタで印刷！！
 1. コイル巻いたり、組み立てたり
