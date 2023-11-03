@@ -40,6 +40,7 @@ VScode + PlatformIOでArduinoで開発
 ## Achievement
 - サイエンスキャッスル2022関東大会 口頭発表
 - 未踏ジュニア2023採択
+- MakerFaireTokyo2023 未踏ジュニアブースにて展示
 
 ## Licence
 MIT
