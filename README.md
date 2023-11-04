@@ -44,8 +44,9 @@ VScode + PlatformIOでArduinoで開発
 
 ## Achievement
 - サイエンスキャッスル2022関東大会 口頭発表
-- 未踏ジュニア2023採択
+- [未踏ジュニア2023採択](https://jr.mitou.org/projects/2023/3d_printed_brushless_motor)
 - MakerFaireTokyo2023 未踏ジュニアブースにて展示
+- 未踏ジュニア成果報告会2023 発表
 
 ## Licence
 MIT
